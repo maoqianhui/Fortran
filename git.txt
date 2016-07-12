@@ -1,4 +1,4 @@
 git add (afile
-git commit -m
+git commit -m "here is the instruction about gitted "
 git push
 )
