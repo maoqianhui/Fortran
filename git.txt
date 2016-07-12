@@ -1,0 +1,4 @@
+git add (afile
+git commit -m
+git push
+)
